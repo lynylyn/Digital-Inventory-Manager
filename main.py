@@ -59,6 +59,3 @@ if __name__ == "__main__":
 
     else:
         print("The selection was invalid.")
-
-object = Product(12, "car", 500, 2)
-print(Product.__str__(object))
